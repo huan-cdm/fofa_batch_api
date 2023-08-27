@@ -1,0 +1,15 @@
+1、fofa邮箱和key配置在config.py
+2、解压到/root/目录下
+3、python3、linux
+4、需要安装的模块：
+sys
+base64
+requests
+json
+re
+time
+5、将扫描的目标添加到target.txt文件中
+样例
+1.1.1.1
+2.2.2.2
+3.3.3.3
